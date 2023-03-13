@@ -5,6 +5,8 @@ export default L;
 
 getGlobalObject().L = L;
 
+console.log('global');
+
 function getGlobalObject() {
 	if (typeof globalThis !== 'undefined') { return globalThis; }
 	if (typeof self !== 'undefined') { return self; }
