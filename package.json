@@ -1,5 +1,5 @@
 {
-  "name": "gb-leaflet",
+  "name": "@manimantra/leaflet",
   "version": "1.9.2",
   "homepage": "https://github.com/manigdm/Leaflet",
   "description": "JavaScript library for mobile-friendly interactive maps",
