@@ -1,6 +1,6 @@
 {
   "name": "@manimantra/leaflet",
-  "version": "1.9.2",
+  "version": "1.9.4",
   "homepage": "https://github.com/manigdm/Leaflet",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Leaflet/Leaflet.git"
+    "url": "https://github.com/manigdm/Leaflet"
   },
   "keywords": [
     "gis",
